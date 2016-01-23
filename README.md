@@ -1,4 +1,3 @@
 # goodbye-world
 
-
-Blah blah blah
+Here's some information, woohoo.
